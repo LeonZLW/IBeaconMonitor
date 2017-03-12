@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		160CEBCB1E603D9300C13588 /* DTWeakTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 160CEBCA1E603D9300C13588 /* DTWeakTimer.m */; };
 		165DC2001E6ED9130071604F /* IBMBeaconInfoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 165DC1FF1E6ED9130071604F /* IBMBeaconInfoCell.m */; };
 		165DC2061E7065800071604F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 165DC2051E7065800071604F /* ViewController.m */; };
 		165DC2091E7069330071604F /* IBMBeaconItemManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 165DC2081E7069330071604F /* IBMBeaconItemManager.m */; };
@@ -42,8 +41,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		160CEBC91E603D9300C13588 /* DTWeakTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = DTWeakTimer.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
-		160CEBCA1E603D9300C13588 /* DTWeakTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = DTWeakTimer.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		165DC1FE1E6ED9130071604F /* IBMBeaconInfoCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = IBMBeaconInfoCell.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		165DC1FF1E6ED9130071604F /* IBMBeaconInfoCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = IBMBeaconInfoCell.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		165DC2041E7065800071604F /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ViewController.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
@@ -136,8 +133,6 @@
 				165DC1FF1E6ED9130071604F /* IBMBeaconInfoCell.m */,
 				16FD6F231E55B3F000027936 /* IBMBeaconItem.h */,
 				16FD6F241E55B3F000027936 /* IBMBeaconItem.m */,
-				160CEBC91E603D9300C13588 /* DTWeakTimer.h */,
-				160CEBCA1E603D9300C13588 /* DTWeakTimer.m */,
 				16A7445C1E4DA9B9003BC75B /* Main.storyboard */,
 				16A7445F1E4DA9B9003BC75B /* Assets.xcassets */,
 				16A744611E4DA9B9003BC75B /* LaunchScreen.storyboard */,
@@ -321,7 +316,6 @@
 				165DC2001E6ED9130071604F /* IBMBeaconInfoCell.m in Sources */,
 				165DC2061E7065800071604F /* ViewController.m in Sources */,
 				16FD6F291E56AC2700027936 /* IBMAddItemViewController.m in Sources */,
-				160CEBCB1E603D9300C13588 /* DTWeakTimer.m in Sources */,
 				165DC2091E7069330071604F /* IBMBeaconItemManager.m in Sources */,
 				16FD6F251E55B3F000027936 /* IBMBeaconItem.m in Sources */,
 				16A744581E4DA9B9003BC75B /* AppDelegate.m in Sources */,
