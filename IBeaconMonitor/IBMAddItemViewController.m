@@ -8,7 +8,6 @@
 
 #import "IBMAddItemViewController.h"
 #import "IBMBeaconItem.h"
-#import "DTWeakTimer.h"
 
 
 @interface IBMAddItemViewController ()
